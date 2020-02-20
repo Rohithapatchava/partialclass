@@ -1,0 +1,7 @@
+D:\Rohitha\c sharp\partialclass\partialclass\bin\Debug\partialclass.exe.config
+D:\Rohitha\c sharp\partialclass\partialclass\bin\Debug\partialclass.exe
+D:\Rohitha\c sharp\partialclass\partialclass\bin\Debug\partialclass.pdb
+D:\Rohitha\c sharp\partialclass\partialclass\obj\Debug\partialclass.csprojResolveAssemblyReference.cache
+D:\Rohitha\c sharp\partialclass\partialclass\obj\Debug\partialclass.csproj.CoreCompileInputs.cache
+D:\Rohitha\c sharp\partialclass\partialclass\obj\Debug\partialclass.exe
+D:\Rohitha\c sharp\partialclass\partialclass\obj\Debug\partialclass.pdb
